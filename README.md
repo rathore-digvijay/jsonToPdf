@@ -26,3 +26,5 @@ If the API is called once again then previous timer will get restarted.
 
 
 * The services/pdfMake.js file contains the API code.
+
+* I have used a JSON file services/catlague_questions.json as sample json input.
